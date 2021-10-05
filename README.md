@@ -1,6 +1,6 @@
 
-git clone https://github.com/firdauspratama0/F
+git clone https://github.com/firdauspratama0/Fir0
 
-cd F
+cd Fir0
 
-python2 F.py [ip] [port]
+python2 Fir0.py [ip] [port]
